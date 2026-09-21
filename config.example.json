@@ -1,0 +1,11 @@
+{
+  "pishock": {
+    "username": "<YOUR_PISHOCK_USERNAME>",
+    "api_key": "<YOUR_PISHOCK_API_KEY>",
+    "name": "Pishock_bridge",
+    "devices": [
+      { "name": "Left", "share_code": "<SHARE_CODE_OR_LINK>" },
+      { "name": "Right", "share_code": "<SHARE_CODE_OR_LINK>" }
+    ]
+  }
+}
