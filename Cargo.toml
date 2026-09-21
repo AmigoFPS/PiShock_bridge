@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 description = "VRChat contacts to PiShock devices"
 build = "build.rs"
+authors = ["Amigo_FPS"]
 
 [dependencies]
 anyhow = "1"
